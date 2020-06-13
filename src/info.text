@@ -1,0 +1,6 @@
+The following tables form part of a database held in a relational DBMS)
+======================================================================= 
+Hotel (hotel_no, hotel_name, city)
+Room (room_no, hotel_no, type, price)
+Booking (hotel_no, guest_no, date_from, date_to, room_no)
+Guest (guest_no, first_name, last_name, address)
