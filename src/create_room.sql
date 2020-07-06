@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS "Room" (
 	room_no CHAR(4) NOT NULL,
-	hotel_no CHAR(4) NOT NULL,
+	hotel_no INT NOT NULL,
 	type CHAR(1) NOT NULL CONSTRAINT valid_room_type CHECK (
 		type IN ('S', 'D', 'P')
 	),
