@@ -1,0 +1,15 @@
+INSERT INTO guest (first_name, last_name, address) VALUES
+    ('Mickey', 'Mouse', '1375 E Buena Vista Dr'),
+    ('Minnie', 'Mouse', '1375 E Buena Vista Dr'),
+    ('George', 'Washington', '3200 Mount Vernon Memorial Hwy'),
+    ('David', 'Bowie', '285 Lafayette St'),
+    ('Jackson', 'Collier', '634 E. Inskip Dr'),
+    ('Buzz', 'Lightyear', '122 Lightyear Way'),
+    ('Bugs', 'Bunny', '1465 Bunny Rd'),
+    ('Elmer', 'Fudd', '1156 W Hunter Blvd'),
+    ('John', 'Lennon', '1200 Abbey Rd'),
+    ('Paul', 'McCartney', '1200 Abbey Rd'),
+    ('Ringo', 'Starr', '1200 Abbey Rd'),
+    ('George', 'Harrison', '1200 Abbey Rd'),
+    ('Elton', 'John', '517 Yello Brick Way'),
+    ('Tom', 'Petty', '120 Mud Lanell');
