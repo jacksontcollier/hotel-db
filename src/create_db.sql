@@ -1,4 +1,4 @@
-\i create_hotel.sql;
-\i create_guest.sql;
-\i create_room.sql;
-\i create_booking.sql;
+\i relation-definitions/create_hotel.sql;
+\i relation-definitions/create_guest.sql;
+\i relation-definitions/create_room.sql;
+\i relation-definitions/create_booking.sql;
