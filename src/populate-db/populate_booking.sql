@@ -67,6 +67,10 @@ BEGIN
 		(hotel_no_bayerischer, '201', guest_no_john_lennon, '1978-04-22', '1978-04-25'),
 		(hotel_no_algonquin, '301', guest_no_paul_mccartney, '1983-10-22', '1983-10-27'),
 		(hotel_no_lutetia, '101', guest_no_ringo_starr, '1992-07-03', '1992-07-06'),
-		(hotel_no_waldorf, '105', guest_no_george_harrison, '1987-03-11', '1987-03-23');
+		(hotel_no_waldorf, '105', guest_no_george_harrison, '1987-03-11', '1987-03-23'),
+		(hotel_no_tennessean, '901', guest_no_elton_john, '1992-02-11', '1992-02-16'),
+		(hotel_no_bayerischer, '201', guest_no_elton_john, '1996-10-25', '1992-11-03'),
+		(hotel_no_palmer, '479', guest_no_elton_john, '2003-12-10', '2003-12-14'),
+		(hotel_no_algonquin, '301', guest_no_tom_petty, '2007-07-22', '2007-07-25');
 END
 $$;
